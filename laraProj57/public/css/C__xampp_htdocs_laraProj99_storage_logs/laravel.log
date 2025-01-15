@@ -1,0 +1,65 @@
+[2024-11-07 13:33:33] local.ERROR: Class "Spatie\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Spatie\\Html\\HtmlServiceProvider\" not found at /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:851)
+[stacktrace]
+#0 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Foundation\\Application->resolveProvider('Spatie\\\\Html\\\\Htm...')
+#1 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('Spatie\\\\Html\\\\Htm...')
+#2 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(765): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(263): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 /home/grp_55/www/laraProject/public/index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 {main}
+"} 
+[2024-11-07 13:38:18] local.ERROR: Class "Spatie\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Spatie\\Html\\HtmlServiceProvider\" not found at /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:851)
+[stacktrace]
+#0 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Foundation\\Application->resolveProvider('Spatie\\\\Html\\\\Htm...')
+#1 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('Spatie\\\\Html\\\\Htm...')
+#2 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(765): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(263): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 /home/grp_55/www/laraProject/public/index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 {main}
+"} 
+[2024-11-07 13:38:20] local.ERROR: Class "Spatie\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Spatie\\Html\\HtmlServiceProvider\" not found at /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:851)
+[stacktrace]
+#0 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Foundation\\Application->resolveProvider('Spatie\\\\Html\\\\Htm...')
+#1 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('Spatie\\\\Html\\\\Htm...')
+#2 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(765): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(263): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 /home/grp_55/www/laraProject/public/index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 {main}
+"} 
+[2024-11-07 13:40:48] local.ERROR: Class "Spatie\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Spatie\\Html\\HtmlServiceProvider\" not found at /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:851)
+[stacktrace]
+#0 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Foundation\\Application->resolveProvider('Spatie\\\\Html\\\\Htm...')
+#1 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('Spatie\\\\Html\\\\Htm...')
+#2 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(765): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(263): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 /home/grp_55/www/laraProject/public/index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 {main}
+"} 
+[2024-11-07 13:40:49] local.ERROR: Class "Spatie\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Spatie\\Html\\HtmlServiceProvider\" not found at /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:851)
+[stacktrace]
+#0 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\\Foundation\\Application->resolveProvider('Spatie\\\\Html\\\\Htm...')
+#1 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('Spatie\\\\Html\\\\Htm...')
+#2 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(765): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(263): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(186): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 /home/grp_55/www/laraProject/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 /home/grp_55/www/laraProject/public/index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 {main}
+"} 
